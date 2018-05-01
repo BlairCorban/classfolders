@@ -1,0 +1,25 @@
+﻿  Terrain.cpp
+z:\bse\cf_bse16071\second year\secondsemester\gd2p04\source\terrain - directx\terrain.h(4): fatal error C1083: Cannot open include file: 'd3dUtil.h': No such file or directory
+  Terrain Demo.cpp
+z:\bse\cf_bse16071\second year\secondsemester\gd2p04\source\terrain - directx\terrain demo.cpp(12): fatal error C1083: Cannot open include file: 'd3dApp.h': No such file or directory
+  Sky.cpp
+z:\bse\cf_bse16071\second year\secondsemester\gd2p04\source\terrain - directx\sky.h(4): fatal error C1083: Cannot open include file: 'd3dUtil.h': No such file or directory
+  Mesh.cpp
+z:\bse\cf_bse16071\second year\secondsemester\gd2p04\source\terrain - directx\mesh.h(4): fatal error C1083: Cannot open include file: 'd3dUtil.h': No such file or directory
+  InputLayouts.cpp
+z:\bse\cf_bse16071\second year\secondsemester\gd2p04\source\terrain - directx\inputlayouts.h(4): fatal error C1083: Cannot open include file: 'd3dUtil.h': No such file or directory
+  Effects.cpp
+z:\bse\cf_bse16071\second year\secondsemester\gd2p04\source\terrain - directx\effects.h(4): fatal error C1083: Cannot open include file: 'd3dUtil.h': No such file or directory
+  DrawableTex2D.cpp
+z:\bse\cf_bse16071\second year\secondsemester\gd2p04\source\terrain - directx\drawabletex2d.h(4): fatal error C1083: Cannot open include file: 'd3dUtil.h': No such file or directory
+  d3dUtil.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\d3dUtil.cpp': No such file or directory
+  d3dApp.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\d3dApp.cpp': No such file or directory
+  TextureMgr.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\TextureMgr.cpp': No such file or directory
+  GameTimer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\GameTimer.cpp': No such file or directory
+  Camera.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\Camera.cpp': No such file or directory
+  Generating Code...
